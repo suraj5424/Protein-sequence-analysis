@@ -1,4 +1,4 @@
-## Learning of Structured Data - Portfolio 2
+## Analysis of a Protein sequence(fasta dataset)
 
 **Problem Statement**
 
